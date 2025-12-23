@@ -72,7 +72,7 @@ Excel-Sales-Dashboard/
 Aspiring **Data Analyst** skilled in Excel, SQL, Power BI, and data visualization. Passionate about converting data into actionable insights.
 
 🔗 GitHub: https://github.com/abhishekdud430  
-🔗 LinkedIn: (add your LinkedIn link)
+🔗 LinkedIn: (https://www.linkedin.com/in/abhishekkumar430)
 
 ---
 
