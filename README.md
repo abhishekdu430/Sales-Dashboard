@@ -76,7 +76,6 @@ Aspiring **Data Analyst** skilled in Excel, SQL, Power BI, and data visualizatio
 
 ---
 
-⭐ If you like this project, give it a star!
+ If you like this project, give it a star ⭐
 
 
-## 📂 Project Structure
