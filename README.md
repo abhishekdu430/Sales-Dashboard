@@ -2,6 +2,15 @@
 # 📊 Sales Dashboard
 
 An interactive **Excel Sales Dashboard** project created to analyze sales performance, profit trends, customer behavior, and regional insights using Excel analytics tools.
+## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Tools & Skills Used](#-tools--skills-used)
+- [Key Insights](#-key-insights)
+- [Project Structure](#-project-structure)
+- [Dashboard Preview](#-dashboard-preview)
+- [How to Use](#-how-to-use)
+- [Business Value](#-business-value)
+- [About Me](#-about-me)
 
 ---
 
